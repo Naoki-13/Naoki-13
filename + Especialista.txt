@@ -1,0 +1,6 @@
++ Especialista 
++ Decomposição ( dividir pra conquistar )
++ Pontos/História ( Planning Poker )
++ Modelo de Barry: 
+	Seguindo Esforço -> Prazo -> Custo
++ Por tempo de Desenvolvimento
